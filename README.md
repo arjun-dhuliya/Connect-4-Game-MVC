@@ -4,3 +4,5 @@ first try at game and MVC, created a simple connect 4 game, but with different b
 Computer is implemented without min max but it makes brilliant moves.
 
 run the main.java file to play your game.
+Use the arrow on the top to play the game.
+UI can be buggy on java9; would try to fix it.
